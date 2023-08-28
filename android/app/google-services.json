@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904907459007",
+    "project_id": "sing-33d74",
+    "storage_bucket": "sing-33d74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904907459007:android:3a179ac92885a9fcb3f90a",
+        "android_client_info": {
+          "package_name": "com.example.sing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904907459007-2sultcmgf08usrpn8c088b52419f4t3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiKa5ld7BxwnSGC7VPcW-6qlqhCzYAWcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904907459007-2sultcmgf08usrpn8c088b52419f4t3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
